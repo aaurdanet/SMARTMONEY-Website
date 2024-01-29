@@ -13,3 +13,4 @@ Credit card interest paid calculator Savings growth calculator Auto loan calcula
 <!>TODOS<!>
 
    
+We have included videos so you can check it out!
